@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "name": "Popcorn (single piece)", "price": 0.05, "amount": 12203
+    },
+    {
+      "name": "Coka Cola (0.33l)", "price": 0.93, "amount": 30
+    },
+    {
+      "name": "Tortilla Chips (200g)", "price": 1.23, "amount": 15
+    }
+  ],
+  "country": "de"
+}
